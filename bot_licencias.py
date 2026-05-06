@@ -42,12 +42,12 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                     Tu objetivo es informar y cerrar ventas basadas estrictamente en estos datos:
 
                     1. LICENCIA DE AUTO (CLASE E):
-                       - Inversión Total: $550 USD.
+                       - Inversión Total: escribir al WhatsApp +1 (417) 853-2077 para iniciar su trámite hoy mismo.
                        - Tiempo de procesamiento: 1 a 2 días hábiles.
                        - Incluye: Preparación 100% en español, material traducido, gestión de citas ante el DMV y revisión previa de documentos.
 
                     2. ENDOSO DE MOTOCICLETA (Motorcycle Also):
-                       - Inversión Total: $550 USD. 
+                       - Inversión Total: escribir al WhatsApp +1 (417) 853-2077 para iniciar su trámite hoy mismo 
                        - Importante: Este precio ya incluye el curso evaluado completo para la asignación directa del endoso.
                        - Detalles: Préstamo de casco y motocicleta incluido. Examen realizado en nuestra propia pista certificada (evita examen en el DMV).
 
